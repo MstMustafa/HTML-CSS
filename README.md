@@ -3,3 +3,7 @@
 <div align="center">
     <p>This repository houses tasks and projects associated with the HTML and CSS course at SoftUni.</p>
 </div>
+
+## Overview
+- **Basic Syntax, Conditional Statements and Loops**: This section includes tasks aimed at developing proficiency in basic syntax, conditional statements, and loops in JavaScript.
+
