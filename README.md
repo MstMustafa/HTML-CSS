@@ -5,5 +5,5 @@
 </div>
 
 ## Overview
-- **Introduction to HTML and CSS**: This section includes tasks aimed at developing proficiency in basic syntax, conditional statements, and loops in JavaScript.
+- **Introduction to HTML and CSS**: This section provides an overview and basic tasks to get acquainted with HTML and CSS, essential for understanding web development fundamentals.
 
